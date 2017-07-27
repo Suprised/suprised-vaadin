@@ -1,0 +1,5 @@
+http://localhost:8888/vaadin/
+http://localhost:8888/vaadin/nav
+http://localhost:8888/vaadin/handler
+http://localhost:8888/vaadin/field
+http://localhost:8888/vaadin/install
